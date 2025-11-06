@@ -1,0 +1,26 @@
+{
+  "data analyst": {
+    "required": {
+      "sql": "intermediate",
+      "python": "intermediate",
+      "statistics": "intermediate",
+      "bi_tools": "basic"
+    }
+  },
+  "frontend developer": {
+    "required": {
+      "html_css": "intermediate",
+      "javascript": "intermediate",
+      "react": "basic",
+      "git": "basic"
+    }
+  },
+  "product manager": {
+    "required": {
+      "product_strategy": "intermediate",
+      "user_research": "intermediate",
+      "analytics": "basic",
+      "roadmapping": "basic"
+    }
+  }
+}

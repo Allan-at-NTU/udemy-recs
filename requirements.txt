@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+groq
+python-dotenv
+pyarrow
+fastapi
+uvicorn[standard]
+pdfminer.six
+requests
+python-dotenv
+groq
